@@ -2,6 +2,7 @@
 /**
  * Plugin Name:       OrderZap Notifications
  * Description:       Automatically send WhatsApp notifications to customers based on WooCommerce order events. Supports Meta WhatsApp Cloud API & Twilio.
+ * Plugin URI:        https://github.com/BhaumilMehta/orderzap-notifications   
  * Version:           1.0.0
  * Author:            Bhaumil Mehta
  * License:           GPL-2.0+
